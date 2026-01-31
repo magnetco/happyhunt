@@ -13,7 +13,7 @@ todos:
     status: pending
   - id: create-story-files
     content: Create detailed markdown files for all 18 user stories in the stories/ folder structure with acceptance criteria and technical specs
-    status: pending
+    status: completed
   - id: design-system
     content: Design component library and establish design tokens for consistent UI across web, mobile, and extension
     status: pending
